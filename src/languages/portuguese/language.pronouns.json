@@ -1,0 +1,10 @@
+[
+  [["i", "me"], ["eu", "mim"], 1],
+  [["you", "you"], ["você", "você"], 2],
+  [["he", "him"], ["ele", "ele"], 3],
+  [["she", "her"], ["ela", "ela"], 4],
+  [["it", "it"], ["", ""], 5],
+  [["we", "us"], ["nós", "nós"], 6],
+  [["y'all", "y'all"], ["vocês", "vocês"], 7],
+  [["they", "them"], ["eles", "eles"], 8]
+]

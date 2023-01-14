@@ -1,0 +1,14 @@
+[
+  [["be", "am", "are", "is", "is", "is", "are", "are", "are"], ["ser", "sou", "é", "é", "é", "é", "somos", "são", "são"]],
+  [["sing", "sing", "sing", "sings", "sings", "sings", "sing", "sing", "sing"], ["cantar", "canto", "canta", "canta", "canta", "canta", "cantamos", "cantam", "cantam"]],
+  [["sang", "sang", "sang", "sang", "sang", "sang", "sang", "sang", "sang"], ["cantou", "cantei", "cantou", "cantou", "cantou", "cantou", "cantemos", "cantaram", "cantaram"]],
+  [["like", "like", "like", "likes", "likes", "likes", "like", "like", "like"], ["gostar", "gosto", "gosta", "gosta", "gosta", "gosta", "gostamos", "gostam", "gostam"]],
+  [["think", "think", "think", "thinks", "thinks", "thinks", "think", "think", "think"], ["pensar", "penso", "pensa", "pensa", "pensa", "pensa", "pensamos", "pensam", "pensam"]],
+  [["dance", "dance", "dance", "dances", "dances", "dances", "dance", "dance", "dance"], ["dançar", "danço", "dança", "dança", "dança", "dança", "dançamos", "dançam", "dançam"]],
+  [["do", "do", "do", "does", "does", "does", "do", "do", "do"], ["fazer", "faço", "faz", "faz", "faz", "faz", "fazemos", "fazem", "fazem"]],
+  [["make", "make", "make", "makes", "makes", "makes", "make", "make", "make"], ["fazer", "faço", "faz", "faz", "faz", "faz", "fazemos", "fazem", "fazem"]],
+  [["want", "want", "want", "wants", "wants", "wants", "want", "want", "want"], ["querer", "quero", "quer", "quer", "quer", "quer", "queremos", "querem", "querem"]],
+  [["run", "run", "run", "runs", "runs", "runs", "run", "run", "run"], ["correr", "corro", "corre", "corre", "corre", "corre", "corremos", "correm", "correm"]],
+  [["love", "love", "love", "loves", "loves", "loves", "love", "love", "love"], ["amar", "amo", "ama", "ama", "ama", "ama", "amamos", "amam", "amam"]],
+  [["hate", "hate", "hate", "hates", "hates", "hates", "hate", "hate", "hate"], ["odiar", "odeio", "odeia", "odeia", "odeia", "odeia", "odiamos", "odeiam", "odeiam"]]
+]
